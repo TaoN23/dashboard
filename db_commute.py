@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-Pendelverbindungen Gaimersheim <-> München Hbf aus der DB Timetables API (v1).
 
 Filtert auf Züge, deren Laufweg den Zielbahnhof enthält (also durchgehende
 RB16-Fahrten ohne Umstieg), holt die Ankunftszeit am Zielbahnhof über die
